@@ -17,4 +17,5 @@ Eus sou Lincoln neres, sou um desenvolvedor Frond End, atualmente estou aprenden
 <br>
 <br>
 
-[![Lincolnneres](https://github-readme-stats.vercel.app/api/top-langs/?username=Lincolnneres&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![lincolnneres](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnneres)](https://github.com/anuraghazra/github-readme-stats)
+
